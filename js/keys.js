@@ -1,0 +1,3 @@
+const MAPBOX_TOKEN = 'pk.eyJ1Ijoid3lubnN0ZXBoZW4iLCJhIjoiY2twcjJtN2dsMDBkMDJwcXV4cm5sdndjMyJ9.y3YqCNi8V_tIQ5iNdkZjPw'
+
+const OPEN_WEATHERMAP_TOKEN = '6e0502e0c949c1bfbd5194419cc359cd'
